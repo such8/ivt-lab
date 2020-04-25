@@ -16,7 +16,11 @@ public class GT4500 implements SpaceShip {
   }
 
   /**
+<<<<<<< HEAD
    * just adding some comments to test merge confict
+=======
+   * added a different comment
+>>>>>>> B
    */
   public boolean fireLaser(FiringMode firingMode) {
     // TODO not implemented yet
