@@ -7,6 +7,10 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<sonar.projectKey>such8_ivt-lab</sonar.projectKey>
+		<sonar.organization>such8</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>8f910241a5e83145163394808a4fae8d3b5f0bb8</sonar.login>
 	</properties>
 
 	<dependencies>
